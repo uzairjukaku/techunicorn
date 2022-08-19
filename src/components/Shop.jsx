@@ -118,7 +118,7 @@ searchProduct()
         <h2>Join Our News Letters</h2>
         <p>
           Leverage agile frameworks to provide a robust synopsis for high level
-          overviews. Iterative approaches to corporate strategy foster{" "}
+          overviews.<br></br> Iterative approaches to corporate strategy foster{" "}
         </p>
         <input type="text"className="searchbarbottom"  placeholder="Insert your mail here"/>
       </div>

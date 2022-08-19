@@ -219,10 +219,13 @@ font-size: 16px;
   text-align: center;
 }
 
-.card .details .stars img {
-  height: 16px !important;
-  width: 16px !important;
-  background-color: transparent;
+.card .details .stars .starsimg {
+  height: 36px ;
+  width: 36px ;
+  /* background-color: #9A9AB0; */
+  /* z-index: 1000; */
+  /* background-color: transparent; */
+  /* background-color: #11142d; */
 }
 .card .details .brand {
   font-size: 14px;
@@ -251,10 +254,13 @@ gap: 30px;
 .newsletters h2 {
   font-weight: 700;
   font-size: 48px;
+  color: #11142D;
 }
 .newsletters p{
   font-weight: 400;
 font-size: 16px;
+text-align: center;
+color: #9A9AB0;
 }
 
 /* footer */
@@ -298,6 +304,10 @@ footer {
 }
 .footercontainer .col2 .col21 ul {
   flex-direction: column;
+}
+.footercontainer .col2 .col21 ul li {
+  font-weight: 700;
+  font-size: 16px;
 }
 .copyright {
   color: #11142d;
